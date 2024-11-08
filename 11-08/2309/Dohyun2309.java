@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Arrays;
 
-public class BJ2309도현 {
+public class Main {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     public static void main(String[] args) throws IOException {
         int[] dwarf = new int[9];
