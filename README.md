@@ -8,3 +8,17 @@
 11-14: <https://www.acmicpc.net/problem/1244>    <https://www.acmicpc.net/problem/2563>    <https://www.acmicpc.net/problem/2635>
 
 11-15: <https://www.acmicpc.net/problem/11723>
+
+11-16: <https://www.acmicpc.net/problem/2217>
+
+11-17: <https://www.acmicpc.net/problem/10610>
+
+11-18: <https://www.acmicpc.net/problem/2960>
+
+11-19: <https://www.acmicpc.net/problem/2491>
+
+11-20: <https://www.acmicpc.net/problem/2477>
+
+11-21: <https://www.acmicpc.net/problem/2564>
+
+11-22: <https://www.acmicpc.net/problem/2527>
