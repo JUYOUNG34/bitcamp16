@@ -14,3 +14,11 @@
 11-17: <https://www.acmicpc.net/problem/10610>
 
 11-18: <https://www.acmicpc.net/problem/2960>
+
+11-19: <https://www.acmicpc.net/problem/2491>
+
+11-20: <https://www.acmicpc.net/problem/2477>
+
+11-21: <https://www.acmicpc.net/problem/2564>
+
+11-22: <https://www.acmicpc.net/problem/2527>
